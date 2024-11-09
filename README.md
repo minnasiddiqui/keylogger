@@ -1,0 +1,1 @@
+This is a simple python keylogger project involving importing a library, defining/calling functions. This keylogger hides in the background and prints all keys entered by a user secretly without the user's knowledge. Beware of hackers who try and steal information from users!
